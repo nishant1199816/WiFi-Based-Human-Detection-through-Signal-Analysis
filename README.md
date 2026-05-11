@@ -230,6 +230,7 @@ CSI requires special hardware (Intel 5300 NIC, ESP32 with modified firmware). Th
 - [ ] Multi-person occupancy counting
 - [ ] Web dashboard (Flask + React) for visualization
 - [ ] Integration with smart home systems (Home Assistant, MQTT)
+- [ ] Paranormal activity detection (EMF anomaly classification)
 
 ---
 
@@ -268,5 +269,5 @@ CSI requires special hardware (Intel 5300 NIC, ESP32 with modified firmware). Th
 
 ## 👤 Author
 
-**Nishant**
+**Nishant Singh**
 Built from scratch using zero extra hardware.
