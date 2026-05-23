@@ -1,4 +1,4 @@
-# 📡 AI-Based WiFi Human Detection System
+# 📡 WiFi-Based-Human-Detection-through-Signal-Analysis
 
 > Detect human presence in a room using **only WiFi signals** — no cameras, no special sensors, no extra hardware.
 
