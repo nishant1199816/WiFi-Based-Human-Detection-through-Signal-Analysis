@@ -267,7 +267,11 @@ CSI requires special hardware (Intel 5300 NIC, ESP32 with modified firmware). Th
 
 ---
 
-## 👤 Author
+👨‍💻 Author
+Nishant Singh
 
-**Nishant Singh**
-Built from scratch using zero extra hardware.
+📧 Email: ns1199816@gmail.com
+
+🔗 GitHub: https://github.com/nishant1199816
+
+🔗 LinkedIn: https://www.linkedin.com/in/nishant-singh-tech/ 
